@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CV_React/static/css/main.64bd23f2.chunk.css",
-    "main.js": "/CV_React/static/js/main.f6406823.chunk.js",
-    "main.js.map": "/CV_React/static/js/main.f6406823.chunk.js.map",
+    "main.js": "/CV_React/static/js/main.53c07f31.chunk.js",
+    "main.js.map": "/CV_React/static/js/main.53c07f31.chunk.js.map",
     "runtime-main.js": "/CV_React/static/js/runtime-main.fa375c25.js",
     "runtime-main.js.map": "/CV_React/static/js/runtime-main.fa375c25.js.map",
     "static/js/2.8e43e81e.chunk.js": "/CV_React/static/js/2.8e43e81e.chunk.js",
@@ -11,12 +11,13 @@
     "static/js/3.541ddc50.chunk.js.map": "/CV_React/static/js/3.541ddc50.chunk.js.map",
     "index.html": "/CV_React/index.html",
     "static/css/main.64bd23f2.chunk.css.map": "/CV_React/static/css/main.64bd23f2.chunk.css.map",
-    "static/js/2.8e43e81e.chunk.js.LICENSE.txt": "/CV_React/static/js/2.8e43e81e.chunk.js.LICENSE.txt"
+    "static/js/2.8e43e81e.chunk.js.LICENSE.txt": "/CV_React/static/js/2.8e43e81e.chunk.js.LICENSE.txt",
+    "static/media/hala.348841ea.jpg": "/CV_React/static/media/hala.348841ea.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.fa375c25.js",
     "static/js/2.8e43e81e.chunk.js",
     "static/css/main.64bd23f2.chunk.css",
-    "static/js/main.f6406823.chunk.js"
+    "static/js/main.53c07f31.chunk.js"
   ]
 }
