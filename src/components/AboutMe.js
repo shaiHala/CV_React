@@ -1,4 +1,5 @@
 import React from 'react';
+import photo from "..//image/hala.jpg"
 import { Link } from 'react-router-dom';
 
 
@@ -19,7 +20,7 @@ class AboutMe extends React.Component{
             <section className="about">
             <div className="row">
                <div className="three columns">
-                  <img className="img"  src="./media/hala.jpg" alt="Tim Baker Profile Pic" />
+                  <img className="img"  src={photo} alt="Tim Baker Profile Pic" />
                </div>
                <div className="nine columns main-col">
                    
