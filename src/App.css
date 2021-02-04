@@ -1,0 +1,259 @@
+.App {
+  text-align: center;
+  font-family: 'Raleway';
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.nav ul {
+  position:  -webkit-sticky ;
+  top: 0;
+  width: 100%;
+  background-color:#333;
+}
+.nav{
+  border:1px solid #ccc;
+  border-width:1px 0;
+  list-style:none;
+  margin:0;
+  padding:0;
+  text-align:center;
+  background-color: #333;
+  
+  
+}
+.nav li{
+  display:inline;
+}
+.nav i{
+  display:inline-block;
+  padding:10px;
+  color:rgb(250, 245, 245);
+  font:'opensans-bold', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+}
+
+.about {
+  background: #2B2B2B;   
+  padding-top: 30px;
+  padding-bottom: 30px;
+  overflow: auto;
+}
+.about span{
+  text-align: center !important;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+  
+}
+.row {
+  max-width: 1020px;
+  margin: 0 auto;
+}
+.row .three {
+  width: 25%;
+}
+.column, .columns {
+  position: relative;
+  padding: 0 20px;
+  min-height: 1px;
+  float: left;
+  text-align: left;
+}
+.about .contact-details {
+  width: 500px;border-block: initial;;
+  background-color: #1f1c1c;
+  height: 180px;
+  margin-top: 20px;
+  margin-bottom: 0;
+  -webkit-border-radius: 6%;}
+span i {
+  font-size: 15px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+}
+
+
+
+*, *:before, *:after {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.about p {
+    line-height: 30px;
+    color: #7A7A7A;
+}
+.about h2 {
+    font: 22px/30px 'opensans-bold', sans-serif;
+    color: #fff;
+    margin-bottom: 12px;
+    text-align: center;
+}
+.img{
+  cursor: pointer;
+  justify-content: flex-start;
+  text-align: center;
+  border-radius: 50%;
+  width: 180px;
+  height: 180px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border: #bd5d38;
+  
+}
+li h3 {
+  width :auto;
+}
+span h2{
+  width: 500px;
+}
+.sidebar{
+  padding-right: 50px;
+  height:100%;
+  width:220px;
+  background-color:#fff;
+  position:fixed!important;
+  z-index:1;
+  overflow:auto;
+ 
+}
+.w3-light-grey,.w3-hover-light-grey:hover,.w3-light-gray,.w3-hover-light-gray:hover{ margin-left: 0;
+  color:#000;background-color:#bd5d38;}
+
+.w3-bar-block { float: left; width:20%;text-align:left;padding:0px 0px; padding-right: 50px }
+.bar-item ul li 
+{
+  margin-left: 0 important;
+  float: left;
+  width:100%;
+  display:block;
+  text-decoration:none;
+  width:100%;
+  display:block;
+  padding:8px 16px;
+  text-align:left;
+  border:none;
+  white-space:normal;
+  float:none;
+  outline:0;
+}
+.containt{
+  
+  background-color:rgb(255, 255, 255);
+  background-image: url('image/b1.jpg');
+  overflow: auto;
+}
+.bar-item .container{
+  margin-left: 0;
+  margin-left: 0%;
+}npm 
+a{
+  text-decoration:none;
+  color: #fff;
+}
+.course, .skills {
+  margin-left: 10%;
+  padding-left: 4%;
+  margin-right: 10%;
+  margin-bottom: 40px;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  background-clip: border-box;
+  border: 1px solid rgba(0,0,0,.125);
+  border-left-color:  #509e98;
+  border-left-style:double;
+  border-radius: .25rem;
+  background-color:#394b4cde;
+}
+
+.titre{
+  font-style: italic  bold;
+  color: #fff;
+  margin-left: 1%!important;
+  margin: 0 auto;
+  padding: 10px;
+  text-align: left;
+  
+}
+.course .title  {
+  color: #fff;
+  -ms-flex: 0 0 33.3%;
+  flex: 0 0 33.3%;
+  max-width: 20%;
+}
+.course .title .year{
+  color: #1bc1b2;
+  font-size: 15px;
+  text-align:left;
+	float:left;
+  padding:0;
+  padding-right: 5rem;
+  font-style: italic  bold;
+
+}
+.course .descrition {
+  flex: 1 1 auto;
+    padding: 2rem 2rem;
+  -ms-flex: 0 0 66.6%;
+  flex: 0 0 66.6%;
+  max-width: 66.6%;
+}
+
+
+.course .descrition p {
+  padding-left: 1em;
+  
+}
+.entrep{
+  display: block;
+  text-align:left;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+h4{
+  
+	text-align: left;
+	padding:0;
+	clear:both;
+	font-size: 15px;
+  color: #fff;
+}
+.skils h3 {
+  width: 590px;
+  text-align: left;
+  /* float: left; */
+  /* padding: 0; */
+  clear: both;
+  /* font-size: 15px; */
+  color: #fff;
+}
+.descrition p{
+  text-align: left;
+  font-size: medium;
+	padding:0;
+	clear:both;
+	padding:0;
+}
+ul.skils li {
+  margin-left: 20%;
+  float: left;
+  width: 156px;
+  padding-left: 10px;
+  margin-top: 6px;
+  
+}
