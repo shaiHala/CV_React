@@ -8,7 +8,7 @@ class AboutMe extends React.Component{
     state={
         name : 'Hala Chaimae Oukhira',
         adress : 'Kamilia - Meknes,Maroc',
-        phone : '060000000',
+        phone : '+212674006008',
         email : 'h.oukhira@outlook.com',
         age : '24ans',
         linkIn:'www.linkedin.com/in/ hala-chaimaeoukhira-3b9881101',
