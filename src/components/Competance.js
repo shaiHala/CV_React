@@ -26,11 +26,11 @@ class Competance extends React.Component {
 
                         <li>C</li>
                         <li>C#</li>
-                        <li>Java / JavaFX / j2EE</li>
+                        <li>Java / JavaFX / j2EE  (Hibernat / Jsf / Spring / Spring boot)</li>
                         <li>Python </li>
                         <li>Android </li>
                         <li>PHP5</li>
-
+                        <li>React</li>
                     <h3>Technologie Web:</h3>
                         <li>HTML</li>
                         <li>CSS</li>
